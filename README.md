@@ -4,4 +4,3 @@ Audits Linux system in a bash script for vulnerabilities using the lynis softwar
 Run this command for the required tools:
 - sudo apt install lynis && sl
 
-- 
